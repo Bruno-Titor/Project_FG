@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Conjunto de tiles","order":16,"path":"folders/Conjunto de tiles.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sequências","order":11,"path":"folders/Sequências.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sons","order":3,"path":"folders/Sons.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Spr_floor","order":1,"path":"sprites/Spr_floor/Spr_floor.yy",},
+    {"name":"Obj_floor","order":1,"path":"objects/Obj_floor/Obj_floor.yy",},
+  ],
+}
